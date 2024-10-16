@@ -5,5 +5,5 @@ Front End :
 
 Back End:
 CyberSecurity:
-QA:
+QA: Arturo Parada
 */
