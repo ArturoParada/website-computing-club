@@ -6,5 +6,5 @@ Front End :
 Back End:
 Jesus Ramirez
 CyberSecurity:
-QA:
+QA: Arturo Parada
 */
